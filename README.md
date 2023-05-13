@@ -1,10 +1,6 @@
-# custom_platform_speciefic_code
+# Custom_Platform_Speciefic_Code
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+# Native code
 
 A few resources to get you started if this is your first Flutter project:
 
